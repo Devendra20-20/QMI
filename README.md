@@ -1,2 +1,2 @@
 # QMI
-This repository contains Qunnatum mechnics first semester handouts.
+This repository contains Quantum mechanics first semester handouts.
